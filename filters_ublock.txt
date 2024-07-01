@@ -1,3 +1,13 @@
+||czech-craft.eu/static/uploads/abanners/ss1.png$image
+czech-craft.eu##.container-right
+||b.ccb.cz/img/^
+! 2024-05-22 https://www.openoffice.cz
+||b.ccb.cz/img$image
+! 2024-05-22 https://www.openoffice.cz
+||i.ccb.cz$image
+! 2024-05-22 https://www.linuxexpres.cz/
+||a.ccb.cz$image
+www.impuls.cz##.show.ads-popup
 ||a.cele.cz^$3p
 ||aktualne.cz^$csp=child-src *
 autozurnal.com##body:remove-class(modal-open)
