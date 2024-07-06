@@ -1,3 +1,4 @@
+www.lupa.cz##.design-popup__content
 ||i.iinfo.cz/images/248/cs24-early.webp$image
 www.root.cz##.clear.promo-in-article.o-promo-in-article
 ||czech-craft.eu/static/uploads/abanners/ss1.png$image
